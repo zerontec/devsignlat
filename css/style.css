@@ -8,6 +8,7 @@
     --h4TextSize: 1.14em;
     --h5TextSize: 1em;
     --pTextSize: 1em;
+    --pTextSize2: 1.25em;
     --smTextSize: 0.85em;
 
     --shadowColor: #525f8014;
@@ -18,7 +19,7 @@
 
     --primaryColor : #324381;
     --primaryBgBody : #ebeef4;
-    --primaryBgFoot : #212529;
+    --primaryBgFoot : #050c12;
 
     --textWhite : #ffffff;
     --textBlack : #212121;
@@ -151,7 +152,10 @@ nav > div{
     max-width: 100%; /* La imagen no se estirará más allá de su tamaño original */
     height: auto; /* La altura se ajustará automáticamente para mantener la proporción de la imagen */
   }
-  
+  .pchange{
+    font-size: var(--pTextSize2);
+
+  }
 .btn-back-to-top{
     position: fixed;
     bottom: 15px; right: 15px;
@@ -240,8 +244,8 @@ section{
         -ms-transform: translate(-50%, -50%);
          -o-transform: translate(-50%, -50%);
             transform: translate(-50%, -50%);
-    background-color: var(--bgWhite);
-    color: var(--bgBlue);
+    background-color: var(--primaryBgFoot);
+    color: var(--bgWhite);
     border-top: 5px solid var(--primaryBgBody);
     -webkit-border-radius: var(--h2TextSize);
        -moz-border-radius: var(--h2TextSize);
@@ -705,7 +709,7 @@ footer{
 }
 footer > .copy{
     padding: 10px 0;
-    background-color: var(--bgBlack);
+    background-color: var(--bgBlue);
 }
 
 .message-form input,
