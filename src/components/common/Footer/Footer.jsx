@@ -23,29 +23,29 @@ const Footer = () => {
             <div className="col-quad">
                 <h3 className="ff-damion">Contactanos</h3>
                 <a href="#" className="display-block fc-white icon-link mt-10 mb-10">
-                    <i className="bi bi-envelope-fill"></i>
+                    <i className="bi bi-envelope-fill" style={{marginRight:5}}></i>
                     admin@devsign.lat
                 </a>
                 <a href="#" className="display-block fc-white icon-link mt-10 mb-10">
-                    <i className="bi bi-telephone-fill"></i>
-                    +58 286 -9712433 
-                    +58 4148825193
+                    <i className="bi bi-telephone-fill" style={{marginRight:5}}></i>
+                    +58 2869712433 
+                    +1 484-908-4464
                 </a>
                 <a href="#" className="display-block fc-white icon-link mt-10 mb-10">
-                    <i className="bi bi-geo-alt-fill"></i>
-                    20th street, Dreamland
+                    <i className="bi bi-geo-alt-fill" style={{marginRight:5}}></i>
+                    522 Washington st, Reading PA 19601
                 </a>
                 <a href="#" className="display-inblock fc-white icon-link mt-20" aria-label="Follow on facebook">
-                    <i className="bi bi-facebook"></i>
+                    <i className="bi bi-facebook" style={{marginRight:5}}></i>
                 </a>
                 <a href="#" className="display-inblock fc-white icon-link" aria-label="Follow on instagram">
-                    <i className="bi bi-instagram"></i>
+                    <i className="bi bi-instagram" style={{marginRight:5}}></i>
                 </a>
                 <a href="#" className="display-inblock fc-white icon-link" aria-label="Follow on twitter">
-                    <i className="bi bi-twitter"></i>
+                    <i className="bi bi-twitter" style={{marginRight:5}}></i>
                 </a>
                 <a href="#" className="display-inblock fc-white icon-link" aria-label="Follow on youtube">
-                    <i className="bi bi-youtube"></i>
+                    <i className="bi bi-youtube" style={{marginRight:5}}></i>
                 </a>
             </div>
            
@@ -92,7 +92,7 @@ const Footer = () => {
             </div>
            
         </div>
-        <div className="copy ta-center fc-white" style={{color:"black"}}>
+        <div className="copy ta-center fc-white" style={{color:"white", fontSize:15,fontWeight:600}}>
             <small>&copy; https//:www.devsign.lat 2023</small>
         </div>
     </footer>
