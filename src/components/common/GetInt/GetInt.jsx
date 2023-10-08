@@ -14,13 +14,12 @@ const GetInt = () => {
     
   
     marginBottom: 0,
-    paddingBottom: '10px'}}>Reach us</h2>
-            <p className="col-wide mlmr-a">
-                Some text that would compel the user to hit that contact button if what the user have seen above
-                is not enough, ofcourse you want as many potential clients as possible.
+    paddingBottom: '10px'}}>Hablemos </h2>
+            <p className="col-wide mlmr-a pchange">
+            ¿Tienes preguntas o ideas emocionantes? ¡Estamos a solo un toque de distancia! Conéctate con nosotros y comienza a dar vida a tus proyectos digitales hoy mismo.
             </p>
             <a href="contact.html" className="btn-bg1 border-round mt-25">
-                Get in touch
+              Contactanos
             </a>
         </section>
 

@@ -12,18 +12,18 @@ const Header = () => {
                 <div className="hero-title fc-white">
                    <LogoA/>
                     <p className="fs-h4 fw-normal" style={{
-    fontSize: '2.55rem',
+    fontSize: '2.34rem',
     fontWeight: 700,
     color: "white",
     marginBottom: '10px',
     lineHeight: 1.2,
     textTransform: 'capitalize'
 }}>
-                        A free HTML template for both personal and commercial use, designed by JAC - 
+                    Soluciones Digitales a tu Alcance 
                        
                     </p>
                     <a href="#about" className="btn-bg2 border-round mt-20">
-                        Learn More <i className="bi bi-chevron-compact-right"></i>
+                        Contactanos <i className="bi bi-chevron-compact-right"></i>
                     </a>
                 </div>
             </div>

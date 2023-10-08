@@ -14,12 +14,12 @@ const Navbar = () => {
                 <input type="checkbox" name="tablet-mobile-menu" className="tab-mob-menu" aria-label="tablet and mobile menu"/>
                 <div className="navigation-container">
                     <a href="index.html" className="btn-bg1 border-round">Home</a>
-                    <a href="about.html" className="btn-bg1 border-round">About</a>
-                    <a href="service.html" className="btn-bg1 border-round">Service</a>
+                    <a href="about.html" className="btn-bg1 border-round">Empresa</a>
+                    <a href="service.html" className="btn-bg1 border-round">Servicios</a>
                     {/* <a href="industries.html" className="btn-bg1 border-round">Industries</a>
                     <a href="blog/blog.html" className="btn-bg1 border-round">Blog</a> */}
-                    <a href="career/career.html" className="btn-bg1 border-round">Career</a>
-                    <a href="contact.html" className="btn-bg1 border-round">Contact Us</a>
+                    <a href="career/career.html" className="btn-bg1 border-round">Empleo</a>
+                    <a href="contact.html" className="btn-bg1 border-round">Contactanos</a>
                 </div>
             </div>
         </nav>
