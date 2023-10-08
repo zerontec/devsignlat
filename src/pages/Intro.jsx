@@ -50,9 +50,9 @@ return (
             <>
             <div className="col-balance">
                 <div className="sticky-img-dual">
-                    <img src="./src/assets/images/profes.png" alt=""/>
+                    <img src="art/profes.png" alt=""/>
                     <img src="svg/blob.svg" alt="" className="blob" />
-                    <img src="./src/assets/images/chica.png" alt=""/>
+                    <img src="art/chica.png" alt=""/>
                 </div>
             </div>
             <div className="sticky-img-dual-spacer"></div>
