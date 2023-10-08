@@ -15,11 +15,9 @@ return (
     
   
     marginBottom: 0,
-    paddingBottom: '10px'}}>Servicios</h2>
-            <p className="col-wide mlmr-a ta-center">
-                Our team composes of highly competitive cloned
-                individual with the same name too, they are top notch motivaded individual
-                dedicated to give hundred and ten percent effort to make your vision comes to life.
+    paddingBottom: '10px'}}> Soluciones</h2>
+            <p className="col-wide mlmr-a ta-center pchange">
+                Conoce algunas de nuestras soluciones, lleva tu emprendimiento a otro nivel 
             </p>
             <div className="row flex-just-center">
                 <div className="col-tri">

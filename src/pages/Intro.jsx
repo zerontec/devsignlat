@@ -21,29 +21,31 @@ return (
     paddingBottom: '10px'}}>La Empresa</h2>
             <div className="col-balance">
                 <span className="fc-primary fs-h2">
-                    We are a top notch placholder text dedicated to make your vision comes to life! Ofcourse this
-                    comes with limitations.
+                Transformando Ideas en Soluciones Digitales Innovadoras
                 </span>
-                <p>
-                    Here at Roundazzle, our mission is crystal clear: to transform your dreams into reality. 
-                    We're not just good; we're extremely good, and we're dedicated to making your vision come to life. 
-                    Did we mention that we're in the business of turning your vision into reality?
+                <p className="pchange">
+                Somos una empresa apasionada por la creación de soluciones tecnológicas de vanguardia. Nuestro equipo de expertos en desarrollo de software se dedica a convertir ideas en productos digitales que impulsan el éxito de nuestros clientes.
                 </p>
-                <p>
-                    Our vision is your vision and we are good at envisioning vision that you are envisioning and we'll make
-                    that vision you are envisioning comes true and we are really good at it yeah believe this placeholder text.
+                <p className="pchange">
+                Con un enfoque centrado en la innovación, colaboramos estrechamente con cada cliente para entender sus necesidades y objetivos. Ya sea que necesite una aplicación móvil intuitiva, un sistema de gestión eficiente o una plataforma web escalable, 
+                estamos aquí para hacerlo realidad.
                 </p>
-                <p>
-                    As a placeholder text in the 'About' section, my mission is to captivate your interest. 
-                    And what better way to captivate your interest than by entertaining you with visions, missions, 
-                    and a dash of whimsy? Or was it mission-vision, vision-mission, a vision that turned into a mission, 
-                    itching to become real?
+                <p className="pchange">
+                Nuestro compromiso con la excelencia y la calidad nos ha convertido en líderes en la industria. Descubra cómo podemos llevar su proyecto al siguiente nivel y hacerlo destacar en el competitivo mundo digital.
+
+
+
+
+
+
+
+
                 </p>
-                <p>
+                {/* <p>
                     Yes we are a top notch high quality, another top notch and high I wonder where we are 
                     now, in space probably.
-                </p>
-                <a href="about.html" className="btn-bg1 mt-25 border-round">Find Out More</a>
+                </p> */}
+                <a href="about.html" className="btn-bg1 mt-25 border-round">Quiere saber más</a>
             </div>
             <>
             <div className="col-balance">

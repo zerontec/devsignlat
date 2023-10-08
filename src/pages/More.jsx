@@ -18,13 +18,11 @@ return (
     
   
     marginBottom: 0,
-    paddingBottom: '10px'}}>Service</h2>
+    paddingBottom: '10px'}}>Servicios</h2>
             <div className="contained">
-                <p className="col-wide mlmr-a">
-                    Here's our range of exceptional services, designed to meet your needs with both quality 
-                    and affordability in mind. Don't hesitate to experience the difference today. Go ahead, 
-                    listen to this placeholder text.
-                </p>
+                <h4 className="col-wide mlmr-a">
+                Servicios Destacados:
+                </h4>
             </div>
             <div className="contained row flex-just-center">
                 <div className="col-full">
@@ -32,34 +30,30 @@ return (
                 </div>
                 <div className="col-tri">
                     <i className="bi bi-stars fs-h2"></i>
-                    <h3 className="mt-10 ff-damion">Web designing</h3>
+                    <h3 className="mt-10 ff-damion">Apliciones Web</h3>
                     <p>
-                        Picking through the moments, aware of what's nearby, the etchings on existence, where 
-                        realities comply, and the façade crumbles, exposing what's inside, the laughter turns 
-                        hollow, when denial can't hide.
+                    Creamos aplicaciones Web , Moviles 
+                    intuitivas y de alto rendimiento que cautivan a los usuarios y expanden su presencia en el mercado digital.
                     </p>
                 </div>
                 <div className="col-tri">
-                    <i className="bi bi-diagram-3 fs-h2"></i>
-                    <h3 className="mt-10 ff-damion">Data Analysis</h3>
+                    {/* <i className="bi bi-diagram-3 fs-h2"></i> */}
+                    <h3 style={{paddingTop:40}} className="mt-10 ff-damion">Diseño de Experiencia de Usuario </h3>
                     <p>
-                        Picking through the moments, aware of what's nearby, the etchings on existence, where 
-                        realities comply, and the façade crumbles, exposing what's inside, the laughter turns 
-                        hollow, when denial can't hide.
+                    Elevamos la experiencia del usuario a través de interfaces atractivas y funcionales que garantizan una interacción intuitiva y satisfactoria con su plataforma.
                     </p>
                 </div>
                 <div className="col-tri">
                     <i className="bi bi-code-slash fs-h2"></i>
-                    <h3 className="mt-10 ff-damion">Development</h3>
+                    <h3 className="mt-10 ff-damion">Desarrollo </h3>
                     <p>
-                        Picking through the moments, aware of what's nearby, the etchings on existence, where 
-                        realities comply, and the façade crumbles, exposing what's inside, the laughter turns 
-                        hollow, when denial can't hide.
+                        Desarrollo de soluciones digitales a medida quiere hacer crecer su negocio
+                        necesita las herramientas necesarias 
                     </p>
                 </div>
             </div>
             <a href="service.html" className="btn-bg2 border-round mt-25">
-                View our services
+                Muchos más Servicios
             </a>
         </section>
 
