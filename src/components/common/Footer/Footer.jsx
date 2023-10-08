@@ -11,24 +11,25 @@ const Footer = () => {
             <div className="col-quad">
                 <LogoA/>
                 <p>
-                    Our mission is your vision and your mission is to tell
-                    us your vision, so that what you envision will become our mission.
+                    Nuestra Misión  Potenciar el éxito de nuestros clientes a través de soluciones tecnológicas innovadoras y servicios 
+                    de desarrollo de software de vanguardia.
                 </p>
                 <p>
-                    We are a placeholder text and yes we are aware of that. We have generated self awareness ever since
-                    the beginning of time and space.
+                    Visión:Ser líderes en la creación de soluciones digitales que transformen industrias y mejoren la vida de las personas en todo el mundo.
+
                 </p>
             </div>
         
             <div className="col-quad">
-                <h3 className="ff-damion">Get in touch</h3>
+                <h3 className="ff-damion">Contactanos</h3>
                 <a href="#" className="display-block fc-white icon-link mt-10 mb-10">
                     <i className="bi bi-envelope-fill"></i>
-                    nonexistentadd@gmail.com
+                    admin@devsign.lat
                 </a>
                 <a href="#" className="display-block fc-white icon-link mt-10 mb-10">
                     <i className="bi bi-telephone-fill"></i>
-                    +639123456789
+                    +58 286 -9712433 
+                    +58 4148825193
                 </a>
                 <a href="#" className="display-block fc-white icon-link mt-10 mb-10">
                     <i className="bi bi-geo-alt-fill"></i>
@@ -49,56 +50,50 @@ const Footer = () => {
             </div>
            
             <div className="col-quad">
-                <h3 className="ff-damion">Opening hours</h3>
+                <h3 className="ff-damion">horarios</h3>
                 <p className="mt-10 mb-10 fw-bold">
-                    Monday - Friday:
-                    <span className="fw-normal display-block">Closed</span>
+                    Lunes - viernes:
+                    <span className="fw-normal display-block">08:00 am - 5:00 pm</span>
                 </p>
                 <p className="mt-10 mb-10 fw-bold">
-                    Saturday:
-                    <span className="fw-normal display-block">8:00 - 8:01</span>
+                    Sabados:
+                    <span className="fw-normal display-block">8:00 am - 01:00 pm</span>
                 </p>
                 <p className="mt-10 mb-10 fw-bold">
-                    Sunday:
-                    <span className="fw-normal display-block">10:00 - 10:01</span>
+                    Domingos:
+                    <span className="fw-normal display-block">Cerrado</span>
                 </p>
             </div>
            
             <div className="col-quad">
-                <h3 className="ff-damion">Useful Links</h3>
+                <h3 className="ff-damion"> Links</h3>
                 <a href="index.html" className="display-block fc-white mt-5 mb-5">
                     <i className="bi bi-chevron-compact-right"></i>
                     Home
                 </a>
                 <a href="about.html" className="display-block fc-white mt-5 mb-5">
                     <i className="bi bi-chevron-compact-right"></i>
-                    About
+                    Empresa
                 </a>
                 <a href="service.html" className="display-block fc-white mt-5 mb-5">
                     <i className="bi bi-chevron-compact-right"></i>
-                    Service
+                    Servicios
                 </a>
-                <a href="industries.html" className="display-block fc-white mt-5 mb-5">
-                    <i className="bi bi-chevron-compact-right"></i>
-                    Industries
-                </a>
+             
                 <a href="blog/blog.html" className="display-block fc-white mt-5 mb-5">
                     <i className="bi bi-chevron-compact-right"></i>
-                    Blog
+                    Empleo
                 </a>
-                <a href="career/career.html" className="display-block fc-white mt-5 mb-5">
-                    <i className="bi bi-chevron-compact-right"></i>
-                    Career
-                </a>
+            
                 <a href="contact.html" className="display-block fc-white mt-5 mb-5">
                     <i className="bi bi-chevron-compact-right"></i>
-                    Contact
+                    Contactanos
                 </a>
             </div>
            
         </div>
-        <div className="copy ta-center fc-white">
-            <small>&copy; Your site - Copyright 2023</small>
+        <div className="copy ta-center fc-white" style={{color:"black"}}>
+            <small>&copy; https//:www.devsign.lat 2023</small>
         </div>
     </footer>
 
