@@ -1,7 +1,9 @@
 /* eslint-disable react/no-unescaped-entities */
 
 
-
+import imagenChico from '../assets/images/profes.png';
+import imagenChica from '../assets/images/chica.png';
+import blob from '../../svg/blob.svg';
 
 
 
@@ -50,9 +52,9 @@ return (
             <>
             <div className="col-balance">
                 <div className="sticky-img-dual">
-                    <img src="../../art/profes.png" alt="chico desarrollando"/>
-                    <img src="../../svg/blob.svg" alt="" className="blob" />
-                    <img src="../../art/chica.png" alt=""/>
+                    <img src={imagenChico} alt="chico desarrollando"/>
+                    <img src={blob} alt="" className="blob" />
+                    <img src={imagenChica} alt=""/>
                 </div>
             </div>
             <div className="sticky-img-dual-spacer"></div>
