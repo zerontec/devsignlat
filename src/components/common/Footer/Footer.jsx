@@ -92,7 +92,7 @@ const Footer = () => {
             </div>
            
         </div>
-        <div className="copy ta-center fc-white" style={{color:"white", fontSize:15,fontWeight:600}}>
+        <div className="copy  fc-white" style={{color:"white", fontSize:15,fontWeight:600, marginRigth:60}}>
             <small>&copy; https//:www.devsign.lat 2023</small>
         </div>
     </footer>

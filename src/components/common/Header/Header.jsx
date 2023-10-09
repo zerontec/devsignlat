@@ -28,18 +28,18 @@ const Header = () => {
                 </div>
             </div>
             <div className="hero-socials">
-                <a href="#" className="mt-a icon-link" aria-label="Follow us on facebook">
+                <a href="https://www.facebook.com/devsignweb" className="mt-a icon-link" aria-label="Follow us on facebook">
                     <i className="bi bi-facebook"></i>
                 </a>
                 <a href="#" className="icon-link mt-10" aria-label="Follow us on instagram">
                     <i className="bi bi-instagram"></i>
                 </a>
-                <a href="#" className="icon-link mt-10" aria-label="Follow us on twitter">
+                <a href="https://twitter.com/devsignlat" className="icon-link mt-10" aria-label="Follow us on twitter">
                     <i className="bi bi-twitter"></i>
                 </a>
-                <a href="#" className="icon-link mt-10" aria-label="Follow us on youtube">
+                {/* <a href="#" className="icon-link mt-10" aria-label="Follow us on youtube">
                     <i className="bi bi-youtube"></i>
-                </a>
+                </a> */}
             </div>
         </section>
    

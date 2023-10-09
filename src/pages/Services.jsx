@@ -22,7 +22,7 @@ return (
             <div className="row flex-just-center">
                 <div className="col-tri">
                     <article className="card-team">
-                        <img src="art/team.webp" alt=""/>
+                        <img src="../../art/team.webp" alt=""/>
                         <h3 className="title ff-damion">Johnny Doe</h3>
                         <div className="info">
                             <h3 className="ff-damion">Frontend Developer</h3>
@@ -39,7 +39,7 @@ return (
                 </div>
                 <div className="col-tri">
                     <article className="card-team">
-                        <img src="art/team.webp" alt=""/>
+                        <img src="../../art/team.webp" alt=""/>
                         <h3 className="title ff-damion">Johnny Doe</h3>
                         <div className="info">
                             <h3 className="ff-damion">Frontend Developer</h3>
@@ -56,7 +56,7 @@ return (
                 </div>
                 <div className="col-tri">
                     <article className="card-team">
-                        <img src="art/team.webp" alt=""/>
+                        <img src="../../art/team.webp" alt=""/>
                         <h3 className="title ff-damion">Johnny Doe</h3>
                         <div className="info">
                             <h3 className="ff-damion">Frontend Developer</h3>
