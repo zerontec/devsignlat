@@ -1,5 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
-import imagenTeam from '../../art/team.webp';
+import imagenTeam from '../../art/uiux.jpg';
+import imagenLapto from '../../art/lapto.jpg';
+import imagenMarketing from '../../art//marketing.jpg';
 
 
 const Services = ()=> {
@@ -23,7 +25,24 @@ return (
                 <div className="col-tri">
                     <article className="card-team">
                         <img src={imagenTeam} alt=""/>
-                        <h3 className="title ff-damion">Johnny Doe</h3>
+                        <h3 className="title ff-damion">UI UX</h3>
+                        <div className="info">
+                            <h3 className="ff-damion">Experiencia de Usuario</h3>
+                            <p>
+                                When I gaze upon the stars' gentle embrace, I glimpse a universe of 
+                                dreams slipping into space, but dreamers must awaken to a stark and empty place.
+                            </p>
+                            <p>
+                                Whispering in the language of forgotten dreams, I hear the echoes of 
+                                desires lost in silent streams.
+                            </p>
+                        </div>
+                    </article>
+                </div>
+                <div className="col-tri">
+                    <article className="card-team">
+                        <img src={imagenLapto}  alt=""/>
+                        <h3 className="title ff-damion">Desarrollo Software</h3>
                         <div className="info">
                             <h3 className="ff-damion">Frontend Developer</h3>
                             <p>
@@ -39,25 +58,8 @@ return (
                 </div>
                 <div className="col-tri">
                     <article className="card-team">
-                        <img src={imagenTeam}  alt=""/>
-                        <h3 className="title ff-damion">Johnny Doe</h3>
-                        <div className="info">
-                            <h3 className="ff-damion">Frontend Developer</h3>
-                            <p>
-                                When I gaze upon the stars' gentle embrace, I glimpse a universe of 
-                                dreams slipping into space, but dreamers must awaken to a stark and empty place.
-                            </p>
-                            <p>
-                                Whispering in the language of forgotten dreams, I hear the echoes of 
-                                desires lost in silent streams.
-                            </p>
-                        </div>
-                    </article>
-                </div>
-                <div className="col-tri">
-                    <article className="card-team">
-                        <img src={imagenTeam}  alt=""/>
-                        <h3 className="title ff-damion">Johnny Doe</h3>
+                        <img src={imagenMarketing}  alt=""/>
+                        <h3 className="title ff-damion">Marketing Digital</h3>
                         <div className="info">
                             <h3 className="ff-damion">Frontend Developer</h3>
                             <p>
