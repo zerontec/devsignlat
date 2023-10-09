@@ -35,18 +35,18 @@ const Footer = () => {
                     <i className="bi bi-geo-alt-fill" style={{marginRight:5}}></i>
                     522 Washington st, Reading PA 19601
                 </a>
-                <a href="#" className="display-inblock fc-white icon-link mt-20" aria-label="Follow on facebook">
+                <a href="https://www.facebook.com/devsignweb" className="display-inblock fc-white icon-link mt-20" aria-label="Follow on facebook">
                     <i className="bi bi-facebook" style={{marginRight:5}}></i>
                 </a>
                 <a href="#" className="display-inblock fc-white icon-link" aria-label="Follow on instagram">
                     <i className="bi bi-instagram" style={{marginRight:5}}></i>
                 </a>
-                <a href="#" className="display-inblock fc-white icon-link" aria-label="Follow on twitter">
+                <a href="https://twitter.com/devsignlat" className="display-inblock fc-white icon-link" aria-label="Follow on twitter">
                     <i className="bi bi-twitter" style={{marginRight:5}}></i>
                 </a>
-                <a href="#" className="display-inblock fc-white icon-link" aria-label="Follow on youtube">
+                {/* <a href="#" className="display-inblock fc-white icon-link" aria-label="Follow on youtube">
                     <i className="bi bi-youtube" style={{marginRight:5}}></i>
-                </a>
+                </a> */}
             </div>
            
             <div className="col-quad">
